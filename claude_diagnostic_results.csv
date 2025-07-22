@@ -1,0 +1,58 @@
+timestamp,label,filename,sha256,claude_response
+2025-06-14T19:24:08.070335,NORMAL,IM-0001-0001.jpeg,f17a003185299f171440c2cb408c2e5bacea90376971ed81ecc9812465e209fb,"Prediction: 1
+
+Reason: The chest X-ray shows increased opacity and consolidation in the right lower lobe area, with patchy infiltrates visible. These findings are consistent with bacterial pneumonia, as there appears to be airspace consolidation rather than the normal clear lung fields expected in a healthy chest X-ray."
+2025-06-14T19:24:11.140822,NORMAL,IM-0007-0001.jpeg,b3527ee86d19cdb6dc6a36d7cea49c769b4ae4506d13c5914d617827708b931a,"Prediction: 1
+
+Reason: The chest X-ray shows increased opacity and consolidation in the right lower lobe area, with loss of normal lung markings and increased density compared to the left lung. These findings are consistent with bacterial pneumonia, which typically presents as localized consolidation with increased opacity in the affected lung segments."
+2025-06-14T19:24:14.758567,NORMAL,IM-0011-0001-0002.jpeg,ad5debf8eb96150d412228561c0257a3db0ac5ceb391516f74b7891681b7bc6d,"Prediction: 1
+
+Reason: The chest X-ray shows bilateral diffuse infiltrates and increased opacity throughout both lung fields, with a hazy, ground-glass appearance that obscures normal lung markings. These findings are consistent with bacterial pneumonia, particularly given the bilateral distribution and diffuse nature of the infiltrates."
+2025-06-14T19:24:18.298973,NORMAL,IM-0013-0001.jpeg,5a78ecdbdaf10b379e481dfde9abccdb7be44e5bb80956708c3686d4096b039c,"Prediction: 1
+
+Reason: The chest X-ray shows bilateral diffuse infiltrates and increased opacity throughout both lung fields, with a hazy, ground-glass appearance that obscures normal lung markings. These findings are consistent with bacterial pneumonia, particularly given the bilateral distribution and diffuse nature of the infiltrates."
+2025-06-14T19:24:22.287617,NORMAL,IM-0017-0001.jpeg,d295d877bb6fde651365fbc39bd62733fa1143ea6bd9afb545d26140efb9b44f,"Prediction: 1
+
+Reason: The chest X-ray shows bilateral diffuse infiltrates and increased opacity throughout both lung fields, with a hazy, ground-glass appearance that obscures normal lung markings. These findings are consistent with bacterial pneumonia, particularly given the bilateral distribution and diffuse nature of the infiltrates."
+2025-06-14T19:24:25.466063,NORMAL,IM-0021-0001.jpeg,cc2b511eb5a8dc4e87ffd1eafa7ce91958140d4467e942cdc32dc6f35e49d864,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. There is also evidence of air bronchograms within the consolidated area, which is a classic finding in bacterial pneumonia."
+2025-06-14T19:24:28.844341,NORMAL,IM-0028-0001.jpeg,45117d08a44f6b4d8fdc6747f7e42a9690eba431f5977f1cb06254dea3243650,"Prediction: 1
+
+Reason: The chest X-ray shows increased opacity and consolidation in the right lower lobe area, with loss of normal lung markings and increased density compared to the left lung. These findings are consistent with bacterial pneumonia, which typically presents as localized consolidation with well-defined borders."
+2025-06-14T19:24:33.457781,NORMAL,IM-0029-0001.jpeg,80b2127ad335e653ef38923849dc5c6825ab928ae56ea8417b7149d600bcba26,"Prediction: 1
+
+Reason: The chest X-ray shows bilateral diffuse infiltrates and increased opacity throughout both lung fields, with a hazy, ground-glass appearance that obscures normal lung markings. These findings are consistent with bacterial pneumonia, particularly given the bilateral distribution and diffuse nature of the infiltrates."
+2025-06-14T19:24:37.548929,NORMAL,IM-0031-0001.jpeg,dc924bea8e2a0eed357b6c45f68edb0ec2ec1e89d56b58c7945fe514e1091bd4,"Prediction: 1
+
+Reason: The chest X-ray shows bilateral diffuse infiltrates with a reticulonodular pattern throughout both lung fields, which is consistent with bacterial pneumonia. The opacities are more prominent in the lower lobes bilaterally, and there appears to be increased interstitial markings. The heart size appears normal, but the widespread pulmonary infiltrates are characteristic of pneumonia rather than a normal chest X-ray."
+2025-06-14T19:24:41.458047,PNEUMONIA,person1005_bacteria_2936.jpeg,1c2fffd100629ed7713fa51f16151503a215b73ff6908bdbe3737cb459427ce0,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the consolidation pattern is typical of bacterial infection rather than viral pneumonia."
+2025-06-14T19:24:45.051044,PNEUMONIA,person1021_virus_1711.jpeg,eeab077dc1b1022180f0e286cd89d6260919476ea3541f92aa323444213e15c1,"Prediction: 1
+
+Reason: The chest X-ray shows increased opacity and consolidation in the right lower lobe with areas of increased density consistent with bacterial pneumonia. There is also evidence of bilateral lower lobe involvement with patchy infiltrates and increased markings throughout both lung fields, which are characteristic findings of bacterial pneumonia rather than a normal chest X-ray."
+2025-06-14T19:24:48.295780,PNEUMONIA,person1022_bacteria_2953.jpeg,ea8a9087430f66fa0a77ae4a65382c6a7af8169c3e7797c9de7c5b97b77bbc48,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The affected area appears denser than the surrounding lung tissue, and there is a clear demarcation between the consolidated region and normal lung parenchyma."
+2025-06-14T19:24:51.372318,PNEUMONIA,person1029_bacteria_2961.jpeg,72ca8d7ae5db58dd32aa3451cbc726541e97c502364c1fe953003416671a57a1,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the heart size and mediastinal structures appear normal."
+2025-06-14T19:24:54.553589,PNEUMONIA,person1029_virus_1721.jpeg,4df413f7f4dc07d21d1aebbb95c4991052173ca7b535b808f014595afcf76e9a,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the heart size and mediastinal structures appear normal."
+2025-06-14T19:24:58.123215,PNEUMONIA,person102_bacteria_487.jpeg,5664cfdef0117ba45cfb70f2c558653f7d06e395819aaae214d1db93d1d6cae1,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the heart size and mediastinal structures appear normal."
+2025-06-14T19:25:01.287266,PNEUMONIA,person1031_bacteria_2963.jpeg,ac1f1e11f90331f40b21a513b2ef95aac8f66da1f8c20a7a29e1ce9267cd29e9,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the heart size and mediastinal structures appear normal."
+2025-06-14T19:25:04.700697,PNEUMONIA,person1035_bacteria_2969.jpeg,0a03106be59f60bea34c054b14179c0c1ee735b69fd7b579fc42453c35bd17ae,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the heart size and mediastinal structures appear normal."
+2025-06-14T19:25:08.215787,PNEUMONIA,person1038_virus_1733.jpeg,e398eaad4084c78688e8353d02bcb83f08fe0ea77297b551829885d52b0285d3,"Prediction: 1
+
+Reason: The chest X-ray shows bilateral diffuse infiltrates with increased opacity throughout both lung fields, particularly in the lower zones. There is loss of normal lung lucency and the appearance suggests consolidation consistent with bacterial pneumonia. The heart borders and diaphragmatic contours are less distinct due to the surrounding infiltrates."
+2025-06-14T19:25:11.581646,PNEUMONIA,person103_bacteria_489.jpeg,0ba10667f41e446b24910fa53fccd7311ed51716e626216ac05be70b73820445,"Prediction: 1
+
+Reason: The chest X-ray shows consolidation in the right lower lobe with increased opacity and loss of normal lung markings, consistent with bacterial pneumonia. The left lung appears relatively clear, and the heart size and mediastinal structures appear normal."
